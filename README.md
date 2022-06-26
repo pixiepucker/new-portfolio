@@ -13,7 +13,7 @@
   - JSX/HTML/CSS/Javascript
 
   ## Preview
-  Here's a sneak peak of the [site!](https://pixiepucker.github.io/new-portfolio)
+  Here's a sneak peak of the [site!](https://pixiepucker.github.io/react-portfolio)
   ![screenshot of deployed site's landing page](./src//assets/preview.png)
 
   ## Table of Contents
