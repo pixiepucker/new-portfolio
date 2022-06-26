@@ -13,7 +13,7 @@ function Resume() {
         <h3 className="md:text-7xl sm:text-5xl font-light">Resume</h3>
         <a
           className="text-white inline-block px-6 py-2.5 bg-indigo font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-indigo/80 hover:shadow-lg focus:bg-indigo/70 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-indigo/80 active:shadow-lg"
-          href="https://drive.google.com/file/d/1FxI_dQElZUXYyBKyyOBatuhIZVY7GQBK/view?usp=sharing"
+          href="https://docs.google.com/document/d/1-4bKholSpo_-NQVKaU_XZw7B4Kjl9Pzb/edit?usp=sharing&ouid=104956758588930223043&rtpof=true&sd=true"
         >
           Download PDF copy!
         </a>

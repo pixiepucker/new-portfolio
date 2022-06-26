@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Close } from '@material-ui/icons';
 
 function MenuItems({ showMenu, active }) {
+  const [activeNav, setActiveNav] = useState(false);
+
   return (
     <ul
       className={
@@ -12,20 +14,38 @@ function MenuItems({ showMenu, active }) {
     >
       <Close onClick={showMenu} className="cursor-pointer" />
       <li>
-        <a href="https://pixiepucker.github.io/react-portoflio/#about">About</a>
+        <a
+          href="#about"
+          onClick={() => setActiveNav('#about')}
+          className={activeNav === '#about' ? 'active' : ''}
+        >
+          About
+        </a>
       </li>
       <li>
-        <a href="https://pixiepucker.github.io/react-portoflio/#project">
+        <a
+          href="#project"
+          onClick={() => setActiveNav('#project')}
+          className={activeNav === '#project' ? 'active' : ''}
+        >
           Projects
         </a>
       </li>
       <li>
-        <a href="https://pixiepucker.github.io/react-portoflio/#resume">
+        <a
+          href="#resume"
+          onClick={() => setActiveNav('#resume')}
+          className={activeNav === '#resume' ? 'active' : ''}
+        >
           Resume
         </a>
       </li>
       <li>
-        <a href="https://pixiepucker.github.io/react-portoflio/#contact">
+        <a
+          href="#contact"
+          onClick={() => setActiveNav('#contact')}
+          className={activeNav === '#contact' ? 'active' : ''}
+        >
           Contact
         </a>
       </li>

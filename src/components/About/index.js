@@ -20,14 +20,13 @@ function About() {
         </p>
       </div>
 
-      <div className="mx-4 p-10 md:flex">
+      <div className="mx-4 p-10 md:flex md:flex-wrap md:justify-self-auto sm:justify-center">
         <img
           src={require('../../assets/sm-avatar.png')}
-          className="block rounded-full mx-auto"
-          id="avatarimg"
+          className="block rounded-full mx-auto w-auto h-auto"
           alt="avatar of creator autumn cain"
         />
-        <p className="md:text-3xl sm:text-xl text-right mt-10">
+        <p className="md:text-3xl sm:text-xl text-left mt-10 p-6">
           I'm fueled by a passion for projects that span cultures and
           forward-thinking. A 'forever student,' I am constantly furthuring the
           skills I have and am always looking for new development technologies.
