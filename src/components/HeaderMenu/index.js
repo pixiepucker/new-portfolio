@@ -12,18 +12,20 @@ function MenuItems({ showMenu, active }) {
     >
       <Close onClick={showMenu} className="cursor-pointer" />
       <li>
-        <a href="https://pixiepucker.github.io/new-portoflio/#about">About</a>
+        <a href="https://pixiepucker.github.io/react-portoflio/#about">About</a>
       </li>
       <li>
-        <a href="https://pixiepucker.github.io/new-portoflio/#project">
+        <a href="https://pixiepucker.github.io/react-portoflio/#project">
           Projects
         </a>
       </li>
       <li>
-        <a href="https://pixiepucker.github.io/new-portoflio/#resume">Resume</a>
+        <a href="https://pixiepucker.github.io/react-portoflio/#resume">
+          Resume
+        </a>
       </li>
       <li>
-        <a href="https://pixiepucker.github.io/new-portoflio/#contact">
+        <a href="https://pixiepucker.github.io/react-portoflio/#contact">
           Contact
         </a>
       </li>
