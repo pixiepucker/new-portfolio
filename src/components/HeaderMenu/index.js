@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Close } from '@material-ui/icons';
 
 function MenuItems({ showMenu, active }) {
-  const [activeNav, setActiveNav] = useState(false);
+  const [activeNav, setActiveNav] = useState('#');
 
   return (
     <ul
