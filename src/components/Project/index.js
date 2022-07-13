@@ -69,20 +69,18 @@ function Project() {
           </a>
         </li>
         <li className="my-2">
-          <h1 className="md:px-4 sm:px-2 md:text-3xl sm:text-xl">
-            Weather Dashboard
-          </h1>
+          <h1 className="md:px-4 sm:px-2 md:text-3xl sm:text-xl">Code_It</h1>
           <p className="md:px-4 sm:px-2 md:text-2xl sm:text-xl">
-            Check the weather in your favorite city with The Weather Dashboard
+            Use this app to keep track of your code blocks and notations!
           </p>
           <a
-            href="https://github.com/pixiepucker/weather-ch6"
+            href="https://github.com/jwhitney2209/code-it"
             className="md:p-4 sm:p-2 md:text-2xl sm:text-xl text-indigo font-normal"
           >
             GitHub
           </a>
           <a
-            href="https://pixiepucker.github.io/weather-ch6/"
+            href="https://protected-headland-96637.herokuapp.com/"
             className="sm:p-1 md:text-2xl sm:text-xl text-indigo font-normal"
           >
             Site

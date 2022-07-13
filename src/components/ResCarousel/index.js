@@ -38,10 +38,10 @@ export default function ResponsiveCarousel() {
           </div>
           <div>
             <img
-              src={require('../../assets/weatherdash.jpeg')}
-              alt="city bus in snow"
+              src={require('../../assets/code-itpreview.png')}
+              alt="screenshot of code-it notes"
             />
-            <p className="legend">Weather Dashboard</p>
+            <p className="legend">Code_It: A Notes App</p>
           </div>
           <div>
             <img
