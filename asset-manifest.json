@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.1d80f533.css",
-    "main.js": "/react-portfolio/static/js/main.06ee1d14.js",
+    "main.js": "/react-portfolio/static/js/main.0d5d0acf.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/lg-background.jpeg": "/react-portfolio/static/media/lg-background.b69f7d6b70e732e72922.jpeg",
     "static/media/sm-avatar.png": "/react-portfolio/static/media/sm-avatar.2fa32fa11115fc58bbb7.png",
-    "static/media/weatherdash.jpeg": "/react-portfolio/static/media/weatherdash.2033effdcb11d3c7c6ad.jpeg",
+    "static/media/code-itpreview.png": "/react-portfolio/static/media/code-itpreview.e02db5150d27455d29ed.png",
     "static/media/satellite.jpeg": "/react-portfolio/static/media/satellite.7ed4666dd08297ee840d.jpeg",
     "static/media/runbuddy.jpeg": "/react-portfolio/static/media/runbuddy.ca4408bf053df1378f16.jpeg",
     "static/media/readmegen.jpeg": "/react-portfolio/static/media/readmegen.f50cc2b300aade89de2f.jpeg",
@@ -13,11 +13,11 @@
     "static/media/ratemyplaylist.jpeg": "/react-portfolio/static/media/ratemyplaylist.8cfa22da21a200c862e4.jpeg",
     "index.html": "/react-portfolio/index.html",
     "main.1d80f533.css.map": "/react-portfolio/static/css/main.1d80f533.css.map",
-    "main.06ee1d14.js.map": "/react-portfolio/static/js/main.06ee1d14.js.map",
+    "main.0d5d0acf.js.map": "/react-portfolio/static/js/main.0d5d0acf.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d80f533.css",
-    "static/js/main.06ee1d14.js"
+    "static/js/main.0d5d0acf.js"
   ]
 }
